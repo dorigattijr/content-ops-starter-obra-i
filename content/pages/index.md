@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Conecte Projetos a Fornecedores de Forma Inteligente
 slug: /
 sections:
   - type: GenericSection
