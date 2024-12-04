@@ -15,7 +15,7 @@ sections:
       Nossa plataforma conecta você aos melhores fornecedores, garantindo
       rapidez e transparência.
     actions:
-      - label: Get started
+      - label: Iniciar
         altText: ''
         url: /
         showIcon: false
