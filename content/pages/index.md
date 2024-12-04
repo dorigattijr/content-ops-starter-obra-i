@@ -35,7 +35,7 @@ sections:
         type: Link
     media:
       url: /images/imagem ovbrai.webp
-      altText: Unblock your team boost your time to production preview
+      altText: Se conecte co fornecedores com obra-i
       elementId: ''
       type: ImageBlock
     badge:
