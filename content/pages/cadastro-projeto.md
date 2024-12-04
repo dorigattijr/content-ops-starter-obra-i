@@ -3,7 +3,7 @@ type: PageLayout
 title: Iniciar projeto
 sections: []
 slug: cadastro-projeto
-isDraft: true
+isDraft: false
 seo:
   type: Seo
   metaTitle: Landing Page
