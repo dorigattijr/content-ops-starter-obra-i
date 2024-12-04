@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Conecte Projetos a Fornecedores de Forma Inteligente
+      text: Conecte Projetos e Fornecedores de Forma Inteligente
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
