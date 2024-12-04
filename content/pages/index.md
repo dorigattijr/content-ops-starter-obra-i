@@ -170,7 +170,7 @@ sections:
         textAlign: center
   - subtitle: Award winning enterprises trust us
     images:
-      - url: /images/Borba.png
+      - url: /images/Logo Cimo Amarelo.png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
