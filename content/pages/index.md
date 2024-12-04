@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Teste de layout
+      text: Conecte Projetos a Fornecedores de Forma Inteligente
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
