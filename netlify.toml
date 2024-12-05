@@ -5,3 +5,11 @@
 
 [[plugins]]
 package = "@netlify/plugin-nextjs"
+
+[plugins]
+  # Adiciona o plugin de edição inline
+  package = "@netlify/plugin-inline-editing"
+
+[inline_editing]
+  # Diretório onde o conteúdo editável estará localizado
+  content_dir = "content"
