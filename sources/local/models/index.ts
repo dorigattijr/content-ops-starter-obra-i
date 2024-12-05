@@ -43,6 +43,10 @@ import { MetaTag } from './MetaTag';
 import { FooterLinksGroup } from './FooterLinksGroup';
 import { Seo } from './Seo';
 
+import IniciarProjetoPage from './IniciarProjetoPage';
+
+
+
 export const allModels = {
     BackgroundImage,
     Badge,
@@ -86,5 +90,6 @@ export const allModels = {
     VideoBlock,
     MetaTag,
     FooterLinksGroup,
+    IniciarProjetoPage,
     Seo
 };
